@@ -1,0 +1,21 @@
+id_cita,id_paciente,edad,genero,ocupacion,motivo_consulta,nivel_urgencia,fecha_solicitud,fecha_cita,dias_espera,dia_semana,franja_horaria,modalidad,canal_reserva,recordatorio_enviado,estado_cita,num_sesion,continuidad,satisfaccion
+C0001,P0001,22,Mujer,Estudiante,Ansiedad,Medio,2024-01-03,2024-01-10,7,Miércoles,Tarde,Online,WhatsApp,Sí,Asistida,1,Continúa,4
+C0002,P0002,38,Hombre,Empleado/a,Estrés laboral,Medio,2024-01-05,2024-01-12,7,Viernes,Mañana,Presencial,Teléfono,No,No asistida,1,Abandona,2
+C0003,P0003,51,Mujer,Cuidador/a,Duelo,Alto,2024-01-08,2024-01-15,7,Lunes,Tarde,Presencial,Email,Sí,Asistida,1,Continúa,5
+C0004,P0001,22,Mujer,Estudiante,Ansiedad,Medio,2024-01-10,2024-01-17,7,Miércoles,Tarde,Online,WhatsApp,Sí,Asistida,2,Continúa,4
+C0005,P0004,29,No binario,Autónomo/a,Autoestima,Bajo,2024-01-12,2024-01-19,7,Viernes,Mañana,Online,Web,Sí,Cancelada,1,Abandona,3
+C0006,P0005,44,Mujer,Empleado/a,Problemas de pareja,Medio,2024-01-15,2024-01-22,7,Lunes,Tarde,Presencial,Teléfono,No,Asistida,1,Continúa,4
+C0007,P0006,19,Hombre,Estudiante,Estrés académico,Medio,2024-01-18,2024-01-25,7,Jueves,Mañana,Online,Web,Sí,Asistida,1,Continúa,5
+C0008,P0007,34,Mujer,Empleado/a,Estrés laboral,Medio,2024-01-20,2024-01-27,7,Sábado,Noche,Presencial,Email,Sí,Reprogramada,1,Continúa,3
+C0009,P0008,57,Hombre,Jubilado/a,Duelo,Alto,2024-01-22,2024-01-29,7,Lunes,Tarde,Presencial,Teléfono,No,No asistida,1,Abandona,2
+C0010,P0009,27,Mujer,Estudiante,Ansiedad,Alto,2024-01-25,2024-02-01,7,Jueves,Tarde,Online,WhatsApp,Sí,Asistida,1,Continúa,5
+C0011,P0010,31,Hombre,Empleado/a,Autoestima,Bajo,2024-02-01,2024-02-08,7,Jueves,Mañana,Online,Web,Sí,Asistida,1,Continúa,4
+C0012,P0011,46,Mujer,Cuidador/a,Orientación familiar,Medio,2024-02-03,2024-02-10,7,Sábado,Mañana,Presencial,Email,No,Cancelada,1,Abandona,2
+C0013,P0012,23,Mujer,Estudiante,Estrés académico,Medio,2024-02-05,2024-02-12,7,Lunes,Tarde,Online,WhatsApp,Sí,Asistida,1,Continúa,5
+C0014,P0013,40,Hombre,Autónomo/a,Problemas de pareja,Medio,2024-02-07,2024-02-14,7,Miércoles,Noche,Presencial,Teléfono,No,No asistida,1,Abandona,2
+C0015,P0014,62,Mujer,Jubilado/a,Duelo,Alto,2024-02-10,2024-02-17,7,Sábado,Mañana,Presencial,Email,Sí,Asistida,1,Continúa,5
+C0016,P0015,25,Prefiere no decir,Desempleado/a,Depresión leve,Alto,2024-02-13,2024-02-20,7,Martes,Tarde,Online,Web,Sí,Asistida,1,Continúa,4
+C0017,P0016,36,Hombre,Empleado/a,Estrés laboral,Medio,2024-02-15,2024-02-22,7,Jueves,Mañana,Presencial,Teléfono,No,Cancelada,1,Abandona,3
+C0018,P0017,48,Mujer,Cuidador/a,Orientación familiar,Medio,2024-02-18,2024-02-25,7,Domingo,Tarde,Presencial,Email,Sí,Asistida,1,Continúa,4
+C0019,P0018,21,Hombre,Estudiante,Ansiedad,Medio,2024-02-20,2024-02-27,7,Martes,Noche,Online,WhatsApp,Sí,Asistida,1,Continúa,5
+C0020,P0019,53,Mujer,Empleado/a,Depresión leve,Alto,2024-02-22,2024-02-29,7,Jueves,Mañana,Online,Web,Sí,Asistida,1,Continúa,4
