@@ -113,13 +113,13 @@ En `02_analisis_exploratorio.ipynb` se analiza:
 
 ### Motivos de consulta y nivel de urgencia
 
-![Motivos de consulta y urgencia](images/motivo_urgencia.png)
+![Motivos de consulta y urgencia](imagenes/motivo_urgencia.png)
 
 ---
 
 ### Continuidad terapéutica
 
-![Continuidad terapéutica](images/continuidad_terapeutica.png)
+![Continuidad terapéutica](imagenes/continuidad_terapeutica.png)
 
 ---
 
