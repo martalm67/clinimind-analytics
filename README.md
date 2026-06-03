@@ -95,19 +95,19 @@ En `02_analisis_exploratorio.ipynb` se analiza:
 
 ### Estado de las citas
 
-![Estado de las citas](images/estado_citas.png)
+![Estado de las citas](imagenes/estado_citas.png)
 
 ---
 
 ### Recordatorios y asistencia
 
-![Recordatorios y asistencia](images/recordatorio_asistencia.png)
+![Recordatorios y asistencia](imagenes/recordatorio_asistencia.png)
 
 ---
 
 ### Motivos de consulta
 
-![Motivos de consulta](images/motivo_consulta.png)
+![Motivos de consulta](imagenes/motivo_consulta.png)
 
 ---
 
@@ -125,7 +125,7 @@ En `02_analisis_exploratorio.ipynb` se analiza:
 
 ### Evolución mensual de citas
 
-![Evolución mensual de citas](images/citas_por_mes.png)
+![Evolución mensual de citas](imagenes/citas_por_mes.png)
 
 ---
 
