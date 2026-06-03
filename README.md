@@ -1,35 +1,51 @@
-# CliniMind Analytics 🧠📊
+# CliniMind Analytics
 
-CliniMind Analytics es un proyecto de análisis de datos aplicado a una clínica psicológica ficticia.
+## Análisis de citas, demanda psicológica y continuidad terapéutica en una clínica de salud mental
 
-El objetivo es simular la gestión de citas de una clínica de psicología y analizar información útil para mejorar la organización, la atención al paciente y la toma de decisiones.
+Este proyecto simula el análisis de datos de una clínica psicológica ficticia, combinando conocimientos de psicología, secretariado médico y análisis de datos.
 
-## Objetivo del proyecto
+El objetivo principal es analizar la gestión de citas, los motivos de consulta, el efecto de los recordatorios, los tiempos de espera y la continuidad terapéutica de los pacientes.
 
-Crear un dataset ficticio de citas psicológicas y utilizarlo para analizar patrones relacionados con la actividad de la clínica.
+## Objetivos del proyecto
 
-El proyecto busca responder preguntas como:
+- Analizar la distribución general de citas y pacientes.
+- Estudiar la tasa de asistencia, cancelación, no asistencia y reprogramación.
+- Evaluar si el envío de recordatorios se relaciona con una mayor asistencia.
+- Identificar los motivos de consulta más frecuentes.
+- Analizar los niveles de urgencia según motivo de consulta.
+- Explorar la continuidad terapéutica y su relación con los días de espera.
 
-- ¿Qué tipo de consulta tiene mayor demanda?
-- ¿Qué días o meses concentran más citas?
-- ¿Cuál es la tasa de cancelación?
-- ¿Qué profesionales tienen mayor carga de trabajo?
-- ¿Qué modalidad se utiliza más: online o presencial?
-- ¿Cuál es el nivel de satisfacción de los pacientes?
-- ¿Qué relación hay entre tiempos de espera y cancelaciones?
+## Dataset
 
-## Estado actual
+El dataset utilizado es sintético, creado con Python, y no contiene datos reales de pacientes.
 
-Proyecto en desarrollo.
+Se generaron:
 
-Actualmente incluye la creación inicial de un dataset ficticio de citas psicológicas mediante Python.
+- 1.600 citas
+- 400 pacientes ficticios
+- Periodo: enero de 2024 a diciembre de 2025
+- Variables administrativas y psicológicas
+
+## Herramientas utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git y GitHub
 
 ## Estructura del proyecto
 
-```txt
+```text
 clinimind-analytics/
+│
 ├── data/
-│   └── datos generados para el análisis
-├── notebook/
-│   └── notebook de creación del dataset
+│   ├── citas_clinica_prueba.csv
+│   └── citas_clinica_completo.csv
+│
+├── notebooks/
+│   ├── 01_creacion_dataset.ipynb
+│   └── 02_analisis_exploratorio.ipynb
+│
 └── README.md
